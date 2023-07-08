@@ -969,5 +969,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHEXAGON \
     DaxUI \
     daxService \
+    camerax-vendor-extensions \
     com.android.hotwordenrollment.common.util \
     manifest_vendor.dolby.hardware.dms
